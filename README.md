@@ -30,6 +30,8 @@ y(t) = 42 + t*sin(θ) + exp(M*|t|) * sin(0.3*t) * cos(θ)
 
 - **Final L1 Loss** = 0.013360
 
+- Also refer to "Results/results.txt"
+
 <img width="2769" height="1771" alt="fit_plot" src="https://github.com/user-attachments/assets/adee807b-16ef-4674-8380-4d745c66400c" /># 
 
 
